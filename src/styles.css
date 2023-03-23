@@ -1,0 +1,9 @@
+/* Add application styles & imports to this file! */
+@import '~@angular/material/prebuilt-themes/purple-green.css';
+.navclass {
+  display: flex;
+  justify-content: space-around;
+  background-color: lavender;
+  padding: 2%;
+  margin: -1%;
+}
